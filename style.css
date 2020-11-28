@@ -18,6 +18,11 @@
   margin: auto;
   margin-top: 10px;
 }
+@media screen and (max-width: 768px) {
+  .para {
+    width: 90%;
+  }
+}
 .cardgroup {
   display: flex;
   flex-wrap: wrap;
